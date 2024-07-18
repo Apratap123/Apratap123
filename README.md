@@ -2,8 +2,8 @@
 - 👀 I’m interested in Full stack developer
 - 🌱 I’m currently learning Next.js
 - 📫 How to reach me anujrajput555.nr@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📱 Connect me on 6395459376
+- 😄 Pronouns: "AP"
 
 <!---
 Apratap123/Apratap123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
