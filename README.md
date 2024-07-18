@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Apratap123
+- 👋 Hi, I’m Anuj Pratap
 - 👀 I’m interested in Full stack developer
 - 🌱 I’m currently learning Next.js
 - 📫 How to reach me anujrajput555.nr@gmail.com
