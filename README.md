@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anuj Pratap
-- 👀 I’m interested in Full stack developer
+- 👀 I’m interested in Full stack Web developer
 - 🌱 I’m currently learning Next.js
 - 📫 How to reach me anujrajput555.nr@gmail.com
 - 📱 Connect me on 6395459376
