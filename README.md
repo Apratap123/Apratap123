@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anuj Pratap
--👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m a Full Stack Developer
 - 💞️ I’m looking to do internship in Web Development to sharpern my skills.
 - 📫 How to reach me anujrajput555.nr@gmail.com
